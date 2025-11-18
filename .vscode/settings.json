@@ -1,6 +1,6 @@
 {
     "projectColors.mainColor": "#eb3d7d",
-    "window.title": "c4 ",
+    "window.title": "SafeWalls",
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
@@ -39,9 +39,19 @@
         "pickerGroup.foreground": "#f84a8a",
         "list.activeSelectionBackground": "#eb3d7d4d",
         "panelTitle.activeBorder": "#f84a8a",
-        "activityBar.activeBorder": "#eb3d7d"
+        "activityBar.activeBorder": "#eb3d7d",
+        "statusBarItem.remoteBackground": "#f84a8a",
+        "statusBarItem.remoteForeground": "#ffffff",
+        "statusBar.background": "#eb3d7d",
+        "statusBar.foreground": "#ffffff",
+        "statusBar.border": "#eb3d7d",
+        "statusBar.debuggingBackground": "#eb3d7d",
+        "statusBar.debuggingForeground": "#ffffff",
+        "statusBar.debuggingBorder": "#eb3d7d",
+        "activityBarBadge.foreground": "#ffffff",
+        "activityBarBadge.background": "#eb3d7d"
     },
-    "projectColors.name": "c4 ",
+    "projectColors.name": "SafeWalls",
     "projectColors.isActivityBarColored": false,
     "projectColors.isTitleBarColored": false,
     "projectColors.isStatusBarColored": true,

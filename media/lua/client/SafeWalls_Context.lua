@@ -38,7 +38,7 @@ function SafeWalls.context(player, context, worldobjects, test)
 	if isProtectBarricade and not SafeWalls.isAdm() then
         local tip = ISWorldObjectContextMenu.addToolTip()
 		context:removeOptionByName(getText("ContextMenu_Unbarricade"))
-        local optTip = opt:addOption(getText("ContextMenu_Unbarricade"), worldobjects, nil)
+        local optTip = context:addOption(getText("ContextMenu_Unbarricade"), worldobjects, nil)
         local tip = ISWorldObjectContextMenu.addToolTip()
         tip.description = "Disabled by SafeWalls Mod"
 		optTip.notAvailable = true
