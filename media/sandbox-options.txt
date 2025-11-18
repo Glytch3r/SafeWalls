@@ -1,0 +1,21 @@
+VERSION = 1,
+
+option SafeWalls.ProtectWalls
+{
+	type = boolean, default = true,
+	page = SafeWalls, translation = SafeWalls_ProtectWalls,
+}
+
+option SafeWalls.ProtectBarricade
+{
+	type = boolean, default = true,
+	page = SafeWalls, translation = SafeWalls_ProtectBarricade,
+}
+
+
+option SafeWalls.ProtectFromFire
+{
+	type = boolean, default = true,
+	page = SafeWalls, translation = SafeWalls_ProtectFromFire,
+}
+

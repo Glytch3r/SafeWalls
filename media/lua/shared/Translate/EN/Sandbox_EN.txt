@@ -1,0 +1,16 @@
+Sandbox_EN = {
+    Sandbox_SafeWalls  = "Safe Walls",
+
+	Sandbox_SafeWalls_ProtectWalls = "Protect Walls",
+	Sandbox_SafeWalls_ProtectWalls_tooltip = "Prevents walls from getting damaged by attack and sledgehammer",
+
+	Sandbox_SafeWalls_ProtectBarricade = "Protect Barricade",
+	Sandbox_SafeWalls_ProtectBarricade_tooltip = "Prevents Barricades from getting damaged by attack and sledgehammer",
+
+	Sandbox_SafeWalls_ProtectFromFire = "Protect From Fire",
+	Sandbox_SafeWalls_ProtectFromFire_tooltip = "Prevents walls or barricade from getting burned down. Requires Protect Walls or Protect Barricade options turned on",
+
+
+}
+
+ 
